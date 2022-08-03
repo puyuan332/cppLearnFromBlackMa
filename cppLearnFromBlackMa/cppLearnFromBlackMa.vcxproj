@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="cpp01_helloWorld.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="learnProgress.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
