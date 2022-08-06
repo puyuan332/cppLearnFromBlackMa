@@ -18,6 +18,24 @@
     <ClCompile Include="cpp01_helloWorld.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="inputData.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="all.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p16_operation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="condition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="useLoop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayUse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="learnProgress.txt">

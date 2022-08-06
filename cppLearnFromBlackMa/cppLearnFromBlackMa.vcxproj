@@ -139,7 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="all.cpp" />
+    <ClCompile Include="ArrayUse.cpp" />
+    <ClCompile Include="condition.cpp" />
     <ClCompile Include="cpp01_helloWorld.cpp" />
+    <ClCompile Include="inputData.cpp" />
+    <ClCompile Include="p16_operation.cpp" />
+    <ClCompile Include="useLoop.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="learnProgress.txt" />
