@@ -36,10 +36,24 @@
     <ClCompile Include="ArrayUse.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pointUse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="learnProgress.txt">
       <Filter>源文件</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pointUse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

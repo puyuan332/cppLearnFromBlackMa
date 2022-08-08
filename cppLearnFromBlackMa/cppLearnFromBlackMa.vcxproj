@@ -145,10 +145,16 @@
     <ClCompile Include="cpp01_helloWorld.cpp" />
     <ClCompile Include="inputData.cpp" />
     <ClCompile Include="p16_operation.cpp" />
+    <ClCompile Include="pointUse.cpp" />
+    <ClCompile Include="test1.cpp" />
     <ClCompile Include="useLoop.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="learnProgress.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pointUse.h" />
+    <ClInclude Include="test1.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
