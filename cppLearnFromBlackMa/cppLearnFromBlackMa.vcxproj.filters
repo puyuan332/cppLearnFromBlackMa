@@ -42,6 +42,9 @@
     <ClCompile Include="pointUse.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="structUse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="learnProgress.txt">
@@ -53,6 +56,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="pointUse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="structUse.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

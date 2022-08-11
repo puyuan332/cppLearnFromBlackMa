@@ -2,10 +2,12 @@
 #include <string>
 #include "test1.h"
 #include "pointUse.h"
+#include "structUse.h"
 
 int main() {
-	printMyStr("込込込");
+	/*printMyStr("込込込");
+	lookPoint();*/
 
-	lookPoint();
+	learnStruct();
 }
 
